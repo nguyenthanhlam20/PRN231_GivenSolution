@@ -1,7 +1,7 @@
 [
   {
     "ContainingType": "Q1.Controllers.EmployeeController",
-    "Method": "GetAllOrder",
+    "Method": "DeleteEmployeeById",
     "RelativePath": "api/Employee/Delete/{EmployeeId}",
     "HttpMethod": "DELETE",
     "IsController": true,

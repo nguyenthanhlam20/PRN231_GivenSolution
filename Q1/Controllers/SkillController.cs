@@ -35,14 +35,14 @@ namespace Q1.Controllers
         [HttpGet("GetSkill/{SkillId}")]
         public IActionResult GetSkillByID(int SkillId)
         {
-            var skill = _dbContext.Skills.FirstOrDefault(s => s.SkillId == SkillId);
-            if (skill == null)
-            {
-                return NotFound();
-            }
-            var listEMP = _dbContext.Employees
-                .Include(s => s.Department)
-                .Include(s => s.EmployeeSkills).To;
+            //var skill = _dbContext.Skills.FirstOrDefault(s => s.SkillId == SkillId);
+            //if (skill == null)
+            //{
+            //    return NotFound();
+            //}
+            //var listEMP = _dbContext.Employees
+            //    .Include(s => s.Department)
+            //    .Include(s => s.EmployeeSkills).To;
             return Ok();
         }
 

@@ -2,7 +2,7 @@
 
 namespace Q1.DTOs
 {
-    public class SKillDTO2
+    public class SKillDTO
     {
         public int SkillId { get; set; }
         public string SkillName { get; set; } = null!;

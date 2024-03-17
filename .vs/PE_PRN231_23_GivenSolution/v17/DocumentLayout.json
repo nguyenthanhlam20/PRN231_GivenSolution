@@ -3,31 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\q1\\controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\q1\\dtos\\skilldto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\dtos\\skilldto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\q1\\dtos\\skilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\dtos\\skilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\q1\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|c:\\users\\admin\\downloads\\sp_pe_prn221_prn231\\prn231\\nop\\prn231_givensolution\\q1\\dtos\\skilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\dtos\\skilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|c:\\users\\admin\\downloads\\sp_pe_prn221_prn231\\prn231\\nop\\prn231_givensolution\\q1\\controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|c:\\users\\admin\\downloads\\sp_pe_prn221_prn231\\prn231\\nop\\prn231_givensolution\\q1\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\q1\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|c:\\users\\admin\\downloads\\sp_pe_prn221_prn231\\prn231\\nop\\prn231_givensolution\\q1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\q1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|c:\\users\\admin\\downloads\\sp_pe_prn221_prn231\\prn231\\nop\\prn231_givensolution\\q1\\dtos\\skilldto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\dtos\\skilldto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|c:\\users\\admin\\downloads\\sp_pe_prn221_prn231\\prn231\\nop\\prn231_givensolution\\q1\\models\\employeeskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\q1\\models\\employeeskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\models\\employeeskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -35,11 +35,11 @@
       "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|c:\\users\\admin\\downloads\\sp_pe_prn221_prn231\\prn231\\nop\\prn231_givensolution\\q1\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\q1\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|c:\\users\\admin\\downloads\\sp_pe_prn221_prn231\\prn231\\nop\\prn231_givensolution\\q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -94,24 +94,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "SKillDTO2.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\DTOs\\SKillDTO2.cs",
               "RelativeDocumentMoniker": "Q1\\DTOs\\SKillDTO2.cs",
               "ToolTip": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\DTOs\\SKillDTO2.cs",
               "RelativeToolTip": "Q1\\DTOs\\SKillDTO2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-17T04:54:05.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EmployeeDTO.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\DTOs\\EmployeeDTO.cs",
               "RelativeDocumentMoniker": "Q1\\DTOs\\EmployeeDTO.cs",
@@ -119,12 +119,11 @@
               "RelativeToolTip": "Q1\\DTOs\\EmployeeDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T04:44:02.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T04:44:02.86Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Q1\\Models\\Employee.cs",
@@ -132,8 +131,7 @@
               "RelativeToolTip": "Q1\\Models\\Employee.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAgwBIAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T04:37:11.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T04:37:11.221Z"
             },
             {
               "$type": "Document",
@@ -145,44 +143,43 @@
               "RelativeToolTip": "Q1\\Models\\EmployeeSkill.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T04:37:15.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T04:37:15.247Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AutoMapper.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Mapper\\AutoMapper.cs",
               "RelativeDocumentMoniker": "Q1\\Mapper\\AutoMapper.cs",
               "ToolTip": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Mapper\\AutoMapper.cs",
               "RelativeToolTip": "Q1\\Mapper\\AutoMapper.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAuAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-16T09:37:58.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "SkillController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Controllers\\SkillController.cs",
               "RelativeDocumentMoniker": "Q1\\Controllers\\SkillController.cs",
               "ToolTip": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Controllers\\SkillController.cs",
               "RelativeToolTip": "Q1\\Controllers\\SkillController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAUwCcAAAANAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwBcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-17T04:16:46.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "SKillDTO.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\DTOs\\SKillDTO.cs",
               "RelativeDocumentMoniker": "Q1\\DTOs\\SKillDTO.cs",
               "ToolTip": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\DTOs\\SKillDTO.cs",
               "RelativeToolTip": "Q1\\DTOs\\SKillDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-17T04:35:53.874Z",
               "EditorCaption": ""
@@ -197,8 +194,7 @@
               "RelativeToolTip": "Q1\\Models\\Skill.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T04:35:30.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T04:35:30.217Z"
             },
             {
               "$type": "Document",
@@ -210,8 +206,7 @@
               "RelativeToolTip": "Q1\\Controllers\\EmployeeController.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAAABMAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T04:15:37.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T04:15:37.962Z"
             },
             {
               "$type": "Document",
@@ -223,8 +218,7 @@
               "RelativeToolTip": "Q1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T09:35:36.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-16T09:35:36.897Z"
             },
             {
               "$type": "Document",
