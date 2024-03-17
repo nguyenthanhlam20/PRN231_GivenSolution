@@ -23,7 +23,7 @@ namespace Q1.Controllers
 
         [EnableQuery]
         [HttpGet("GetSkills")]
-        public IActionResult GetAllOrder()
+        public IActionResult GetSkills()
         {
             var list = _dbContext.Skills
                 .Include(s => s.EmployeeSkills)
@@ -35,18 +35,31 @@ namespace Q1.Controllers
         [HttpGet("GetSkill/{SkillId}")]
         public IActionResult GetSkillByID(int SkillId)
         {
-            //var skill = _dbContext.Skills.FirstOrDefault(s => s.SkillId == SkillId);
-            //if (skill == null)
-            //{
-            //    return NotFound();
-            //}
-            //var listEMP = _dbContext.Employees
-            //    .Include(s => s.Department)
-            //    .Include(s => s.EmployeeSkills).To;
-            return Ok();
+            Skill? skill = _dbContext.Skills.SingleOrDefault(s => s.SkillId == SkillId);
+            if (skill == null)
+            {
+                return NotFound();
+            }
+            var ems = (from emp in _dbContext.Employees
+                       join de in _dbContext.Departments on emp.EmployeeId equals de.ManagerId
+                       join eskil in _dbContext.EmployeeSkills on emp.EmployeeId equals eskil.EmployeeId
+                       join ski in _dbContext.Skills on eskil.SkillId equals ski.SkillId
+                       where ski.SkillId == SkillId
+                       select new
+                       {
+                           employeeId = emp.EmployeeId,
+                           employeeName = emp.Name,
+                           department = de.DepartmentName,
+                           proficiencyLevel = eskil.ProficiencyLevel,
+                           acquiredDate = eskil.AcquiredDate,
+                       }).ToList();
+            return Ok(new
+            {
+                skillId = skill.SkillId,
+                skillName = skill.SkillName,
+                description = skill.Description,
+                employees = ems,
+            });
         }
-
-
-
     }
 }
