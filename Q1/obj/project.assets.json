@@ -2852,11 +2852,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\Sample_Thi_Config\\PE_PRN231_23_GivenSolution\\PE_PRN231_23_GivenSolution\\Q1\\Q1.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Q1.csproj",
       "projectName": "Q1",
-      "projectPath": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\Sample_Thi_Config\\PE_PRN231_23_GivenSolution\\PE_PRN231_23_GivenSolution\\Q1\\Q1.csproj",
+      "projectPath": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Q1.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\Sample_Thi_Config\\PE_PRN231_23_GivenSolution\\PE_PRN231_23_GivenSolution\\Q1\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
