@@ -1,5 +1,47 @@
 [
   {
+    "ContainingType": "Q1.Controllers.EmployeeController",
+    "Method": "GetAllOrder",
+    "RelativePath": "api/Employee/Delete/{EmployeeId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "EmployeeId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Q1.Controllers.SkillController",
+    "Method": "GetSkillByID",
+    "RelativePath": "api/Skill/GetSkill/{SkillId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "SkillId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Q1.Controllers.SkillController",
+    "Method": "GetAllOrder",
+    "RelativePath": "api/Skill/GetSkills",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Q1.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
