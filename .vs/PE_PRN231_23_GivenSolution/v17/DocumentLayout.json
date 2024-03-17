@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\q1\\controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\q1\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|c:\\users\\admin\\downloads\\sp_pe_prn221_prn231\\prn231\\nop\\prn231_givensolution\\q1\\dtos\\skilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\dtos\\skilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|c:\\users\\admin\\downloads\\sp_pe_prn221_prn231\\prn231\\nop\\prn231_givensolution\\q1\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|c:\\users\\admin\\downloads\\sp_pe_prn221_prn231\\prn231\\nop\\prn231_givensolution\\q1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|c:\\users\\admin\\downloads\\sp_pe_prn221_prn231\\prn231\\nop\\prn231_givensolution\\q1\\dtos\\skilldto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\dtos\\skilldto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|c:\\users\\admin\\downloads\\sp_pe_prn221_prn231\\prn231\\nop\\prn231_givensolution\\q1\\models\\employeeskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\models\\employeeskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\q1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\q1\\controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|c:\\users\\admin\\downloads\\sp_pe_prn221_prn231\\prn231\\nop\\prn231_givensolution\\q1\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|c:\\users\\admin\\downloads\\sp_pe_prn221_prn231\\prn231\\nop\\prn231_givensolution\\q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\q1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -23,12 +51,8 @@
       "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\models\\spring24b1_scriptcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|c:\\users\\admin\\downloads\\sp_pe_prn221_prn231\\prn231\\nop\\prn231_givensolution\\q1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\q1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\q1\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\q1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,88 +94,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Spring24B1_ScriptContext.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Models\\Spring24B1_ScriptContext.cs",
-              "RelativeDocumentMoniker": "Q1\\Models\\Spring24B1_ScriptContext.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Models\\Spring24B1_ScriptContext.cs",
-              "RelativeToolTip": "Q1\\Models\\Spring24B1_ScriptContext.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAA4wCEAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T04:26:57.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Program.cs",
-              "RelativeDocumentMoniker": "Q1\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Program.cs",
-              "RelativeToolTip": "Q1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T09:35:36.897Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\appsettings.json",
-              "RelativeDocumentMoniker": "Q1\\appsettings.json",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\appsettings.json",
-              "RelativeToolTip": "Q1\\appsettings.json",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-16T09:36:00.052Z",
+              "Title": "SKillDTO2.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\DTOs\\SKillDTO2.cs",
+              "RelativeDocumentMoniker": "Q1\\DTOs\\SKillDTO2.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\DTOs\\SKillDTO2.cs",
+              "RelativeToolTip": "Q1\\DTOs\\SKillDTO2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T04:54:05.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Q1\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Q1\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-16T09:36:22.677Z",
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\DTOs\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "Q1\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\DTOs\\EmployeeDTO.cs",
+              "RelativeToolTip": "Q1\\DTOs\\EmployeeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T04:44:02.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Q1\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Models\\Employee.cs",
+              "RelativeToolTip": "Q1\\Models\\Employee.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T04:37:11.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeSkill.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Models\\EmployeeSkill.cs",
+              "RelativeDocumentMoniker": "Q1\\Models\\EmployeeSkill.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Models\\EmployeeSkill.cs",
+              "RelativeToolTip": "Q1\\Models\\EmployeeSkill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T04:37:15.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Mapper\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "Q1\\Mapper\\AutoMapper.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Mapper\\AutoMapper.cs",
+              "RelativeToolTip": "Q1\\Mapper\\AutoMapper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T09:37:58.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "SkillController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Controllers\\SkillController.cs",
               "RelativeDocumentMoniker": "Q1\\Controllers\\SkillController.cs",
               "ToolTip": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Controllers\\SkillController.cs",
               "RelativeToolTip": "Q1\\Controllers\\SkillController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAVAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAUwCcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-17T04:16:46.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AutoMapper.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Mapper\\AutoMapper.cs",
-              "RelativeDocumentMoniker": "Q1\\Mapper\\AutoMapper.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Mapper\\AutoMapper.cs",
-              "RelativeToolTip": "Q1\\Mapper\\AutoMapper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "DocumentIndex": 2,
+              "Title": "SKillDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\DTOs\\SKillDTO.cs",
+              "RelativeDocumentMoniker": "Q1\\DTOs\\SKillDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\DTOs\\SKillDTO.cs",
+              "RelativeToolTip": "Q1\\DTOs\\SKillDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T09:37:58.11Z"
+              "WhenOpened": "2024-03-17T04:35:53.874Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "Q1\\Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Models\\Skill.cs",
+              "RelativeToolTip": "Q1\\Models\\Skill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T04:35:30.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Q1\\Controllers\\EmployeeController.cs",
@@ -164,7 +215,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Program.cs",
+              "RelativeDocumentMoniker": "Q1\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Program.cs",
+              "RelativeToolTip": "Q1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T09:35:36.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Spring24B1_ScriptContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Models\\Spring24B1_ScriptContext.cs",
+              "RelativeDocumentMoniker": "Q1\\Models\\Spring24B1_ScriptContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Models\\Spring24B1_ScriptContext.cs",
+              "RelativeToolTip": "Q1\\Models\\Spring24B1_ScriptContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA4wCEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T04:26:57.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\appsettings.json",
+              "RelativeDocumentMoniker": "Q1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\appsettings.json",
+              "RelativeToolTip": "Q1\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T09:36:00.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Q1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Q1\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T09:36:22.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Q1\\Controllers\\WeatherForecastController.cs",
@@ -176,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q2\\Program.cs",
               "RelativeDocumentMoniker": "Q2\\Program.cs",
@@ -188,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q2\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Q2\\Views\\_ViewImports.cshtml",
@@ -200,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q2\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Q2\\Views\\Shared\\Error.cshtml",
@@ -212,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Q2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -224,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q2\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Q2\\Properties\\launchSettings.json",
@@ -236,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Q2\\Views\\Shared\\_Layout.cshtml",
@@ -248,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Q1\\WeatherForecast.cs",
