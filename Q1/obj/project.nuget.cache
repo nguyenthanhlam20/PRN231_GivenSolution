@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0TygSF3mfunBDW/OMCMBmxJjDUXxPpz4zs30Ju9q+AtRg4tWyftWLBpf/jDp/Z5TVJRfXsC6xOiGn7jPrDD45A==",
+  "dgSpecHash": "Am5ukIxjRqH9z5oge5MAMnXpaVewNAw3+PJGUYLjFX6aCdlLunW8vIt1vEfNADcYUWRAPCyJtK9CG04bHYzX+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\Sample_Thi_Config\\PE_PRN231_23_GivenSolution\\PE_PRN231_23_GivenSolution\\Q1\\Q1.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Downloads\\SP_PE_PRN221_PRN231\\PRN231\\nop\\PRN231_GivenSolution\\Q1\\Q1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

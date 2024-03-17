@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.OData;
 using Microsoft.OData.Edm;
 using Microsoft.OData.ModelBuilder;
-//using Q1.Models;
+using Q1.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -23,7 +23,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 /*builder.Services.AddAutoMapper(typeof(Program).Assembly);*/
-//builder.Services.AddDbContext<PRN_Sum22_B1Context>();
+builder.Services.AddDbContext<Spring24B1_ScriptContext>();
 builder.Services.AddCors(builder =>
     builder.AddPolicy("corsapp", b => { b.WithOrigins("*").AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin(); }));
 
